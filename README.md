@@ -1,6 +1,6 @@
 # RomuStrike XML/Chat protocol
 
-See (XMLProtocol.md)[XMLProtocol.md] for more details
+See [XMLProtocol.md](XMLProtocol.md) for more details
 
 ## License
 Creative Commons
